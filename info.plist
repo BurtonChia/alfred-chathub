@@ -1904,6 +1904,10 @@ Here is how to get those api-keys:
 				<key>pairs</key>
 				<array>
 					<array>
+						<string>Gemini 2.0 Flash</string>
+						<string>gemini-2.0-flash</string>
+					</array>
+					<array>
 						<string>Gemini 1.5 Pro</string>
 						<string>gemini-1.5-pro</string>
 					</array>
